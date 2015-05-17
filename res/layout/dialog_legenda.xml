@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="5sp"
+        android:text="I diversi colori delle 3 zone indicano:"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/Black" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="10sp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/zona_a" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|center_vertical"
+            android:layout_marginLeft="3sp"
+            android:text="= Zona A"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/Black" />
+
+        <ImageView
+            android:id="@+id/moreInfoZonaA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:layout_marginLeft="10sp"
+            android:src="@drawable/more_info" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="10sp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/zona_b" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|center_vertical"
+            android:layout_marginLeft="3sp"
+            android:text="= Zona B"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/Black" />
+
+        <ImageView
+            android:id="@+id/moreInfoZonaB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:layout_marginLeft="10sp"
+            android:src="@drawable/more_info" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="10sp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5sp"
+            android:src="@drawable/zona_c" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|center_vertical"
+            android:layout_marginLeft="3sp"
+            android:text="= Zona C"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/Black" />
+
+        <ImageView
+            android:id="@+id/moreInfoZonaC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:layout_marginLeft="10sp"
+            android:src="@drawable/more_info" />
+    </LinearLayout>
+
+</LinearLayout>

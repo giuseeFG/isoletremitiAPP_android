@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="120sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="5sp"
+            android:background="#90eff0fd"
+            android:src="@drawable/intestazione_mappa" />
+
+        <RadioGroup
+            android:id="@+id/radioScelta"
+            android:background="@drawable/layout_corners"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15sp"
+            android:layout_marginLeft="5sp"
+            android:layout_marginRight="5sp"
+            android:layout_marginTop="15sp" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3sp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5sp"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/seleziona"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:text="Seleziona i PDI da visualizzare sulla mappa:"
+                        android:textColor="@color/Black"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3sp"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/radioButtonAlberghi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Alberghi"
+                        android:textColor="@color/Black"
+                        android:textSize="14sp" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonAttivita"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Attività"
+                        android:textColor="@color/Black"
+                        android:textSize="14sp" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonBarLocali"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Bar e Locali"
+                        android:textColor="@color/Black"
+                        android:textSize="14sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <CheckBox
+                        android:id="@+id/checkBoxMostraCale"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Mostra cale"
+                        android:textColor="@color/Black"
+                        android:textSize="14sp" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxMostraZone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Mostra zone riservate"
+                        android:textColor="@color/Black"
+                        android:textSize="14sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </RadioGroup>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="15sp"
+            android:layout_marginLeft="15sp"
+            android:layout_marginRight="15sp"
+            android:background="#0099cc"
+            android:fitsSystemWindows="true" >
+
+            <fragment
+                android:id="@+id/map"
+                android:name="com.google.android.gms.maps.SupportMapFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <ImageButton
+                android:id="@+id/imageHelp"
+                android:layout_width="30sp"
+                android:layout_height="30sp"
+                android:layout_marginLeft="5sp"
+                android:layout_marginTop="5sp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/question_mark" />
+        </FrameLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/sfondo_storia"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/headerStoria"
+            android:layout_width="match_parent"
+            android:layout_height="120sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="5sp"
+            android:background="#90eff0fd"
+            android:src="@drawable/intestazione_storia" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/testoStoria1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginTop="5sp"
+                    android:background="@drawable/layout_corners"
+                    android:textColor="@color/Black"
+                    android:textSize="22sp" />
+
+                <TextView
+                    android:id="@+id/testoStoria2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginTop="5sp"
+                    android:background="@drawable/layout_corners"
+                    android:textColor="@color/Black"
+                    android:textSize="22sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/statuadiomede" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/testoStoriaAcheo"
+                    android:layout_width="222dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginTop="5sp"
+                    android:background="@drawable/layout_corners"
+                    android:textColor="@color/Black"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/testoStoria3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginTop="5sp"
+                    android:background="@drawable/layout_corners"
+                    android:textColor="@color/Black"
+                    android:textSize="22sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/chiesa" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/testoStoria4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginTop="5sp"
+                    android:background="@drawable/layout_corners"
+                    android:textColor="@color/Black"
+                    android:textSize="22sp" />
+
+                <TextView
+                    android:id="@+id/testoStoria5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginTop="5sp"
+                    android:background="@drawable/layout_corners"
+                    android:textColor="@color/Black"
+                    android:textSize="22sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/crocifisso" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/testoStoria6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginTop="5sp"
+                    android:background="@drawable/layout_corners"
+                    android:textColor="@color/Black"
+                    android:textSize="22sp" />
+
+                <TextView
+                    android:id="@+id/testoStoria7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5sp"
+                    android:layout_marginLeft="5sp"
+                    android:layout_marginRight="5sp"
+                    android:layout_marginTop="5sp"
+                    android:background="@drawable/layout_corners"
+                    android:textColor="@color/Black"
+                    android:textSize="22sp" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

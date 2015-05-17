@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<resources>
+
+    <string name="numeroDiTelefono">Telefono: </string>
+    <string name="email">eMail: </string>
+    <string name="sitoWeb">Sito web: </string>
+    <string name="titolo">Titolo: </string>
+    <string name="infoApp">Info applicazione</string>
+    <string name="preferiti">Preferiti</string>
+    <string name="app_name">Isole Tremiti</string>
+    <string name="action_settings">Settings</string>
+    <string name="infoIsole">Informazioni</string>
+    <string name="mappa">Mappa:</string>
+    <string name="tipoCamera">Tipologia camera:</string>
+    <string name="numeroPersone">N° ospiti:</string>
+    <string name="comeArrivare">Come arrivare</string>
+    <string name="storia">Storia</string>
+    <string name="mitiELeggende">La leggenda di Diomede</string>
+    <string name="bar">Bar e locali</string>
+    <string name="ristoranti">Ristoranti</string>
+    <string name="doveAlloggiare">Dove alloggiare</string>
+    <string name="buttonEnter">Entra</string>
+    <string name="dalGiorno">Dal giorno:</string>
+    <string name="inviaRichiesta">Invia richiesta</string>
+    <string name="alGiorno">Al giorno:</string>
+    <string name="richiediDisponibilita">Richiedi disponibilità </string>
+    <string name="comeRaggiun">Come raggiungere le Isole Tremiti:</string>
+    <string name="elicottero">In meno di 20 minuti si raggiunge l\'isola di San Domino partendo da Foggia.</string>
+    <string name="macchina">Autostrada A14 - uscita TERMOLI. Raggiungere il porto di Termoli.</string>
+    <string name="treno">Un mezzo economico e sicuro per raggiungere Termoli (nave) o Foggia (elicottero).</string>
+    <string name="titoloStoria">Cenni storici</string>
+    <string name="titoloInfo">Le Isole Tremiti</string>
+    <string name="nave">Collegamento garantito tutto l\'anno dal porto di Termoli e nel periodo estivo anche dai principali porti del gargano.</string>
+   
+</resources>

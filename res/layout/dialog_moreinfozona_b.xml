@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="5sp"
+        android:text="Cosa indica la zona B:"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/Black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="5sp"
+        android:text="La zona B, di riserva generale, è relativa a Caprara e ad una parte di San Domino. Precisamente sull'isola di San Domino l'area interessata è tra Punta della Provvidenza e Punta Secca. A Capraia comprende la zona che va da Cala Sorrentino allo scoglio Caciocavallo. Qui è vietata la pesca subacquea, sportiva e professionale, e la navigazione, tranne quella autorizzata dall’Ente gestore."
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/Black" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="15sp"
+        android:text="Fonte: http://www.lecinqueisole.it/riservamarina.html"
+        android:textSize="10sp"
+        android:textColor="@color/Black" />
+
+</LinearLayout>

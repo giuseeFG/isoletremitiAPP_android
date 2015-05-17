@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="5sp"
+        android:text="Cosa indica la zona C:"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/Black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="5sp"
+        android:text="La zona C, di riserva parziale, riguarda San Nicola e l'altra parte di San Domino. Qui, oltre alle immersioni, è consentita la pesca sportiva. Numerose sono le zone dove sono possibili sia la balneazione che le immersioni subacquee."
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/Black" />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="15sp"
+        android:text="Fonte: http://www.lecinqueisole.it/riservamarina.html"
+        android:textSize="10sp"
+        android:textColor="@color/Black" />
+
+</LinearLayout>

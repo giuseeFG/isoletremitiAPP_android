@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#F9F6F4"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textViewNomeCala"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40sp"
+        android:gravity="center|center_vertical"
+        android:shadowColor="@color/text_shadow"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="5"
+        android:text="Nome: "
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#4F2412"
+        android:textSize="28sp" />
+
+    <ImageView
+        android:id="@+id/imageViewDettaglio"
+        android:layout_width="259sp"
+        android:layout_height="194sp"
+        android:layout_gravity="center|center_horizontal"
+        android:layout_marginTop="50sp" />
+
+</LinearLayout>

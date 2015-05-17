@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="5sp"
+        android:background="#90eff0fd"
+        android:src="@drawable/intestazione_arrivare" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/LinearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_marginTop="5sp"
+            android:layout_weight="0.25"
+            android:background="@drawable/layout_corners" >
+
+            <ImageButton
+                android:id="@+id/elicottero"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5sp"
+                android:background="#00000000"
+                android:clickable="true"
+                android:src="@drawable/elicottero" />
+
+            <TextView
+                android:id="@+id/textElicottero"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginBottom="5sp"
+                android:layout_marginLeft="5sp"
+                android:layout_marginRight="5sp"
+                android:layout_marginTop="5sp"
+                android:clickable="true"
+                android:text="@string/elicottero"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Black"
+                android:textSize="22sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_marginTop="5sp"
+            android:layout_weight="0.25"
+            android:background="@drawable/layout_corners" >
+
+            <ImageButton
+                android:id="@+id/macchina"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5sp"
+                android:background="#00000000"
+                android:clickable="true"
+                android:src="@drawable/macchina" />
+
+            <TextView
+                android:id="@+id/textMacchina"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginBottom="5sp"
+                android:layout_marginLeft="5sp"
+                android:layout_marginRight="5sp"
+                android:layout_marginTop="5sp"
+                android:clickable="true"
+                android:text="@string/macchina"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Black"
+                android:textSize="22sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayout3"
+            android:layout_width="match_parent"
+            android:layout_weight="0.25"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_marginTop="5sp"
+            android:background="@drawable/layout_corners" >
+
+            <ImageButton
+                android:id="@+id/nave"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5sp"
+                android:background="#00000000"
+                android:clickable="true"
+                android:src="@drawable/traghetto" />
+
+            <TextView
+                android:id="@+id/textNave"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginBottom="5sp"
+                android:layout_marginLeft="5sp"
+                android:layout_marginRight="5sp"
+                android:layout_marginTop="5sp"
+                android:clickable="true"
+                android:text="@string/nave"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Black"
+                android:textSize="22sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayout4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_marginTop="5sp"
+            android:layout_weight="0.25"
+            android:background="@drawable/layout_corners" >
+
+            <ImageButton
+                android:id="@+id/treno"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5sp"
+                android:background="#00000000"
+                android:clickable="true"
+                android:src="@drawable/treno" />
+
+            <TextView
+                android:id="@+id/textTreno"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginBottom="5sp"
+                android:layout_marginLeft="5sp"
+                android:layout_marginRight="5sp"
+                android:layout_marginTop="5sp"
+                android:clickable="true"
+                android:text="@string/treno"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Black"
+                android:textSize="22sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

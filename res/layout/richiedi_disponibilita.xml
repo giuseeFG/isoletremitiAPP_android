@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="25sp"
+            android:layout_weight="0.01"
+            android:gravity="center"
+            android:text="@string/richiediDisponibilita"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/Aquamarine"
+            android:textSize="25sp"
+            android:textStyle="bold" >
+        </TextView>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:text="@string/dalGiorno"
+        android:textColor="@color/Azure"
+        android:textSize="20sp" />
+
+    <DatePicker
+        android:id="@+id/dateAndata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:text="@string/alGiorno"
+        android:textColor="@color/Azure"
+        android:textSize="20sp" />
+
+    <DatePicker
+        android:id="@+id/datePartenza"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tipoCamera"
+            android:textColor="@color/Azure" />
+
+        <EditText
+            android:id="@+id/tipologiaCamera"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left" >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/numeroPersone"
+            android:textColor="@color/Azure" />
+
+        <EditText
+            android:id="@+id/numeroOspiti"
+            android:layout_width="61dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15sp"
+            android:ems="10"
+            android:inputType="phone" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/buttonRichiediDisponibilita"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/inviaRichiesta" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

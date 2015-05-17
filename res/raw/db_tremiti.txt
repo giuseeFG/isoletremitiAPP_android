@@ -1,0 +1,1231 @@
+{
+    "geonames": [
+        {	
+        	"id": 1,
+            "name": "Lo Scrigno",
+            "lat": 42.116335,
+            "lng": 15.491737,
+            "web": "http://www.loscrigno.info",
+            "tel": "0882463429",
+            "email": "loscrignomonolocali@iol.it",
+            "type": ["Albergo", "Attivita"],
+            "descrizione": "Appartamenti: vicino la famosa Cala Matana, ampio spazio privato con veranda esterna coperta. Immerso nel verde con suggestiva vista del Gargano. Posizione centrale rispetto all'isola. Locali con angolo cottura, bagno, TV, frigo, 2+1 posti letto, climatizzatore, barbecue e Wi-Fi.\n\nNegozio: souvenir artigianali, gioielli in argento e pietre dure realizzati interamente a mano. Creazioni personalizzate."
+        },
+        {
+        	"id": 2,
+            "name": "Tutto in Tasca: pratico e utile supporto informativo",
+            "lat": 0,
+            "lng": 0,
+            "web": "http://www.tuttointasca.it/",
+            "tel": "3472122191",
+            "email": "info@tuttointasca.it",
+            "type": "Attivita",
+            "descrizione": "L’opuscolo Tutto in Tasca® si ripropone come pratico e utile supporto informativo. L’obiettivo è quello di agevolare chi lo riceve nella ricerca di servizi, prodotti e aziende del territorio, stimolando la lettura, con informazioni utili e curiosità.\n\nNell’opuscolo saranno inseriti gli argomenti di maggiore interesse e consultazione, quali: numeri e orari utili, una mappa, trasporti, aree verdi, ecologia e molto altro ancora.\n\nInoltre, Tutto in Tasca, a seconda delle versioni, propone sezioni dedicate allo sport, alla storia, ai monumenti e alle manifestazioni tradizionali.\n\nL’opuscolo comprende inserzioni pubblicitarie delle aziende locali, grazie alle quali sarà possibile la realizzazione dello stesso.\n\nTutto in Tasca ®: un valido strumento da tenere sempre a portata di mano.\n\nIdeato e progettato da: Roberto Attanasio - R.A.Pubblicità."
+        },
+       	{
+        	"id": 3,
+            "name": "PRO LOCO",
+            "lat": 0,
+            "lng": 0,
+            "web": "http://www.prolocoisoletremiti.it/",
+            "tel": "0882463008",
+            "email": "prolocotremiti@gmail.com",
+            "type": "Attivita",
+            "descrizione": ""
+        },
+        {
+        	"id": 4,
+            "name": "A' Furmicula",
+            "lat": 42.114118,
+            "lng": 15.487348,
+            "tel": "0882463313",
+            "email": "nd",
+            "web": "nd",
+            "type": ["Ristorante", "Bar", "Attivita"],
+            "descrizione": "Un punto di riferimento in cui trascorrere le serate tremitesi, ascoltando musica dal vivo o da discoteca in tarda notte. Disponibile anche a pranzo o cena per bar, ristorante, pizzeria."
+        },
+        {
+        	"id": 5,
+            "name": "Jimmy Bike, noleggio bici, scooter & quod",
+            "lat": 42.114536,
+            "lng": 15.490167,
+            "tel": "3388970909",
+            "web": "http://www.jimmybike.com/",
+            "email": "nd",
+            "type": "Attivita",
+            "descrizione": "Le Isole Tremiti sono un arcipelago formato da 5 piccole isole. A San Domino, principale centro turistico, non è possibile portare mezzi propri. Per questo c'è Jimmy Bike che da sempre offre il servizio di noleggio moto, scooter, quad e bici, per facilitare i vostri spostamenti sull’isola."
+        },
+        {
+        	"id": 6,
+            "name": "La bottega del mare",
+            "lat": 42.12027,
+            "lng": 15.49653,
+            "tel": "335309096",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Grazioso punto vendita di souvenir tipici delle isole Tremiti, direttamente sul porto. Rivendita quotidiani."
+        },
+        {	
+        	"id": 7,
+            "name": "Hanif, souvenir",
+            "lat": 42.120037,
+            "lng": 15.496141,
+            "tel": "3407640429",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Abbigliamento e bigiotteria dai paesi indiani. Prezzi modici."
+        },
+        {	
+        	"id": 8,
+            "name": "Shop 88 alimentari & souvenir",
+            "lat": 42.115013,
+            "lng": 15.4909,
+            "tel": "0882463236",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Alimentari, bibite, panini, gelati, frutta e verdura, souvenir, abbigliamento, articoli sportivi, articoli fotografici."
+        },
+        {	
+        	"id": 9,
+            "name": "L'isola del benessere",
+            "lat": 42.113843,
+            "lng": 15.49002,
+            "tel": "3490901182",
+            "web": "nd",
+            "email": "dolceisolana@live.it",
+            "type": "Attivita",
+            "descrizione": "Il posto ideale dove rilassare i sensi e dedicare un po' di tempo a se stessi lasciandosi guidare da personale qualificato."
+        },
+        {	
+        	"id": 10,
+            "name": "Il Greco",
+            "lat": 42.113123,
+            "lng": 15.489333,
+            "tel": "0882463312",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Abbigliamento sportivo, attrezzature subacquee, souvenir e rivendita giornali."
+        },
+        {	
+        	"id": 11,
+            "name": "Franca Sport",
+            "lat": 42.116983,
+            "lng": 15.489001,
+            "tel": "0882463343",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Mettiamo a disposizione tutto il necessario affinchè il suo soggiorno sull'isola sia una esperienza indimenticabile.\nNel nostro negozio troverete la moda estiva, articoli sportivi e nautici; nel nostro chiosco-bar potrete degustare i piatti tipici; e con il nostro esclusivo servizio di noleggio d'imbarcazioni scoprirete i luoghi più belli e sconosciuti dell'arcipelago."
+        },
+        {	
+        	"id": 12,
+            "name": "Mini market Fentini",
+            "lat": 42.113698,
+            "lng": 15.489864,
+            "tel": "0882463220",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Qui potrete trovare una vasta scelta di prodotti per la vostra spesa. Convenzionato Conad."
+        },
+        {	
+        	"id": 13,
+            "name": "Distributore di benzina",
+            "lat": 42.112365,
+            "lng": 15.476292,
+            "tel": "3290103363",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Fare il pieno sulle isole Tremiti non è più un’utopia. L’arcipelago è dotato di un distributore di benzina, in località Punta Secca"
+        },
+        {	
+        	"id": 14,
+            "name": "Il Mare Addosso",
+            "lat": 42.114076,
+            "lng": 15.490041,
+            "tel": "3486628504",
+            "email": "fattiifattituoi2004@libero.it",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Nelle vicinanze della piazzetta, souvenir vari e oggettistica anche in argento "
+        },
+        {	
+        	"id": 15,
+            "name": "Servizio motoscafi Gente di Mare",
+            "lat": 42.120322,
+            "lng": 15.496971,
+            "tel": "3338995975",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Giro delle isole con visita alle grotte. Bagno presso la statua immersa di Padre Pio. Giro dell'isola di San Domino con visita alle grotte. Traghetto S. Domino - S. Nicola."
+        },
+        {	
+        	"id": 16,
+            "name": "Motonave Mariagrazia III°",
+            "lat": 0,
+            "lng": 0,
+            "tel": "3477023914",
+            "email": "greco_giuseppe@hotmail.it",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Aperitivo e pranzo a bordo a base di pesce direttamente dal proprio peschereccio. Pesca sportiva, minicrociere, lettini per solarium, diving center, escursioni notturne ascoltando il mitico canto delle diomedee."
+        },
+        {	
+        	"id": 17,
+            "name": "Motoscafo Sparviero Attanasio Vincenzo",
+            "lat": 42.120612,
+            "lng": 15.496808,
+            "tel": "3395365314",
+            "email": "info@tremitiinbarca.it",
+            "web": "http://www.tremitiinbarca.it/",
+            "type": "Attivita",
+            "descrizione": "Giro delle isole con visita alle grotte. Bagno presso la statua immersa di Padre Pio. Giro dell'isola di San Domino con visita alle grotte. Traghetto S. Domino - S. Nicola. Acquista online e risparmia!"
+        },
+        {	
+        	"id": 18,
+            "name": "La Mejofauna:\nPercorsi NaturArtistici",
+            "lat": 0,
+            "lng": 0,
+            "web": "http://mejofauna.blogspot.it/",
+            "tel": "3336353210",
+            "email": "racheletremiti@gmail.com",
+            "type": "Attivita",
+            "descrizione": "Il Mejopassato:  guidati da Rachele (storica dell'arte) farete un tuffo nella storia dell'arcipelago Tremitese, a San Nicola  salirete lungo le mura di cinta del castello, passando sul ponte levatoio, fino ad arrivare alla grande abbazia di Santa Maria a Mare. Durata percorso: 2h\n\nLa Mejoflora: farete un'immersione tra la flora del luogo, scoprirete nomi caretteristiche ed usi delle piante autoctone e del loro uso da parte della comunità isolana. Inoltre potrete ammirare gli scorci più sugestivi che l'isola di San Domino offre. Durata percorso: 2h\n\nLa Mejofauna: in compagnia di Emanuella (biologa marina) basteranno una maschera e un paio di pinne per apprezzare le bellezze  del mare, tra stelle marine banchi di pesci e spugne colorate lei vi svelerà segreti e curiosità del mondo sommerso. Durata escursione: 1.30h"
+        },
+        {	
+        	"id": 19,
+            "name": "Neverland Mini Crociere",
+            "lat": 42.119426,
+            "lng": 15.498748,
+            "tel": "3897972465",
+            "email": "caiccoesat2011@libero.it",
+            "web": "http://www.caiccoesat.com/",
+            "type": "Attivita",
+            "descrizione": "Un piccolo albergo sul mare che cambia spiaggia tutti i giorni. Dispone di 8 camere matrimoniali e triple con bagno privato. Possibilit� di Week-end o settimane in pensione completa. Per consentire a tutti di visitare luoghi incantevoli a prezzi speciali."
+        },
+        {	
+        	"id": 20,
+            "name": "B&B Junior",
+            "lat": 42.119032,
+            "lng": 15.493298,
+            "web": "nd",
+            "tel": "3288118708",
+            "email": "juniortremiti@libero.it",
+            "type": "Albergo",
+            "descrizione": "Bed & Breakfast di nuova gestione con ambiente rinnovato e curato. Vicino al porto e al centro del paese, circondato dalla fresca pineta."
+        },
+        {	
+        	"id": 21,
+            "name": "La Fenice",
+            "lat": 42.114765,
+            "lng": 15.490063,
+            "tel": "0882463449",
+            "email": "lafenicetremiti@hotmail.it",
+            "web": "nd",
+            "type": ["Ristorante", "Bar"],
+            "descrizione": "Ristorante, pizzeria e braceria. Aperitivi il pomeriggio a bordo piscina e bella musica dal vivo."
+        },
+        {	
+        	"id": 22,
+            "name": "Albergo Panorama",
+            "lat": 42.115479,
+            "lng": 15.490781,
+            "tel": "3495027976",
+            "email": "nd",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": "All'inizio del paese, con grazioso giardino dove pranzare con pesce tremitese."
+        },
+        {	
+        	"id": 23,
+            "name": "Baely Resort",
+            "lat": 42.11575,
+            "lng": 15.490508,
+            "web": "http://www.baely.it/",
+            "tel": "0882463767",
+            "email": "info@baely.it",
+            "type": "Albergo",
+            "descrizione": "Struttura apprezzata da riviste specializzate (guida Michelin), dotata dei più moderni comfort, mini piscina con idro/aromaterapia. Situato nel cuore di S. Domino, a 100 mt. da Cala Matano e vicinissimo al centro del paese."
+        },
+        {	
+        	"id": 24,
+            "name": "Hotel Ristorante Bel Mare",
+            "lat": 42.11984,
+            "lng": 15.496044,
+            "web": "http://belmaretremiti.com/",
+            "tel": "0882463407",
+            "email": "info@belmaretremiti.com",
+            "type": ["Albergo", "Ristorante", "Bar"],
+            "descrizione": "Appartamenti situati a pochi metri dal mare, sulla spiaggia. Arredati in modo semplice e funzionale, angolo cottura, frigo e aria condizionata. Al bar: bibite e snack tra le palme, vista mare e servizio spiaggia con noleggio ombrelloni e lettini."
+        },
+        {	
+        	"id": 25,
+            "name": "Hotel Ristorante Belvedere",
+            "lat": 42.114611,
+            "lng": 15.490787,
+            "web": "http://pensionebelvedere.vpsite.it/",
+            "tel": "3494535220",
+            "email": "arturosantoro@virgilio.it",
+            "type": ["Albergo", "Ristorante", "Bar"],
+            "descrizione": "Albergo situato in prossimità del paese. Di fronte all'albergo è presente una terrazza (belvedere, appunto) dalla quale si può ammirare un gradevole paesaggio."
+        },
+        {
+        	"id": 26,
+            "name": "Di Girolamo - appartamenti",
+            "lat": 42.112703,
+            "lng": 15.489457,
+            "tel": "0882463290",
+            "email": "nd",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": "Bi o trilocali con cucina dotati di tutti i comfort, in posizione centrale ma molto silenziosa."
+        },
+        {	
+        	"id": 27,
+            "name": "Hotel Eden",
+            "lat": 42.115489,
+            "lng": 15.490996,
+            "web": "http://www.hoteledentremiti.it/",
+            "email": "info@hoteledentremiti.it",
+            "tel": "0882463211",
+            "type": "Albergo",
+            "descrizione": "L'Hotel Eden sorge in una suggestiva posizione panoramica sull'isola di San Domino. A soli 100m dalla incantevole cala Matano e a pochi passi dalla piazzetta di San Domino, l'Hotel Eden è il luogo ideale per chi intende godere a pieno delle innumerevoli bellezze dell'isola."
+        },
+        {
+        	"id": 28,
+            "name": "Hotel Gabbiano",
+            "lat": 42.114438,
+            "lng": 15.490771,
+            "web": "http://www.hotel-gabbiano.com/",
+            "tel": "0882463410",
+            "email": "info@hotel-gabbiano.com",
+            "type": "Albergo",
+            "descrizione": "Gestito direttamente dai proprietari, strutturato in 2 corpi, la parte centrale ed il villaggio, è immerso in un rigoglioso giardino. Camere dotate di tutti i comfort. Il ristorante è particolarmente noto per le sue succulente preparazioni a base di pesce."
+        },
+        {
+        	"id": 29,
+            "name": "B&B Isola Verde",
+            "lat": 42.119032,
+            "lng": 15.493298,
+            "tel": "0882463030",
+            "email": "bb.isolaverde@tiscali.it",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": "La struttura dita 300m dall'unica spiaggetta di sabbia. Immersa in pineta offre un ambiente fresco e distensivo. Colazione con prodotti tipici e caserecci. Bagno di servizio a disposizione anche dopo aver lasciato la camera. Wi-Fi disponibile."
+        },
+        {
+        	"id": 30,
+            "name": "Residence Il Capannone",
+            "lat": 42.112837,
+            "lng": 15.488486,
+            "web": "http://www.residenceilcapannone.com/",
+            "tel": "3395873733",
+            "email": "info@residenceilcapannone.com",
+            "type": "Albergo",
+            "descrizione": "Il residence è composto da tre appartamenti indipendenti l'uno dall'altro muniti di ampio giardino sui due fronti. Dispongono di cucina, bagno, camera da letto, ampi terrazzi e giardino indipendente su due fronti attrezzato con angolo barbecue in muratura. Sono forniti di aria condizionata in ogni stanza, zanzariere, TV color LCD 32 pollici, decoder satellitare, internet Wi-Fi."
+        },
+        {
+        	"id": 31,
+            "name": "Villaggio Internazionale Punta del Diamante",
+            "lat": 42.123222,
+            "lng": 15.49238,
+            "web": "http://www.puntadeldiamante.it/",
+            "tel": "0882463405",
+            "email": "info@puntadeldiamante.it",
+            "type": "Albergo",
+            "descrizione": "In posizione suggestiva, il villaggio comprende villette in muratura, camere con servizi privati e monolocali con servizi esterni centralizzati. Mono e bilocali con angolo cottura nel residence. Ristorante self-service. Accesso diretto a mare."
+        },
+        {
+        	"id": 32,
+            "name": "Hotel Ristorante Il Gambero",
+            "lat": 42.120125,
+            "lng": 15.495811,
+            "tel": "0882463322",
+            "email": "gamberotremiti@libero.it",
+            "web": "nd",
+            "type": ["Albergo", "Ristorante"],
+            "descrizione": "Locale a due passi dalla spiaggia, con vista sull'isola di S. Nicola. Specialità di piatti a base di pesce con possibilità di menù turistico o alla carta."
+        },
+        {
+        	"id": 33,
+            "name": "Hotel La Bussola",
+            "lat": 42.114138,
+            "lng": 15.490626,
+            "tel": "0882463421",
+            "email": "nd",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": "Grazioso affittacamere con colazione in veranda, a due passi dal centro del paese, vicino cala Matano."
+        },
+        {
+        	"id": 34,
+            "name": "Ristorante B&B L'altro Faro",
+            "lat": 42.112936,
+            "lng": 15.488781,
+            "web": "http://www.isolehoteltremitilaltrofaro.it/desktop/index.html",
+            "tel": "0882463390",
+            "email": "info@isolehoteltremitilaltrofaro.it",
+            "type": ["Albergo", "Ristorante"],
+            "descrizione": "Il ristorante: Annalisa con il giusto mix di fantasia colore e pesce freschissimo allieta i suoi ospiti con pietanze sempre nuove e con gusti ricercati. Tuttavia ci sono dei piatti che contraddistinguono e differenziano il Ristorante dagli altri...\n\nB&B: il bed & breakfast dispone di 2 camere.\nSERVIZI: bagno in camera, aria condizionata, frigo bar, tv sat digitale, phon e cassetta di sicurezza, telefono, connessione internet via cavo o wi-fi solo su richiesta.\"PET FRIENDLY\": gli animali domestici di piccola taglia sono ammessi su richiesta."
+        },
+        {
+        	"id": 35,
+            "name": "Era Ora",
+            "lat": 42.114226,
+            "lng": 15.490071,
+            "web": "nd",
+            "email": "nd",
+            "tel": "3477314783",
+            "type": "Bar",
+            "descrizione": "Grazioso locale in piazzetta, dove poter fare una buona colazione e gustare un buon bicchiere di vino all'aperitivo."
+        },
+        {
+        	"id": 36,
+            "name": "Stella di Mare",
+            "lat": 42.114321,
+            "lng": 15.490328,
+            "tel": "3477895317",
+            "email": "nd",
+            "web": "nd",
+            "type": "Bar",
+            "descrizione": "Locale di gestione giovanile, nel centro di S- Domino, tavolinio all'aperto per un gelato, un apertivo o un buon caffè."
+        },
+        {
+        	"id": 37,
+            "name": "Hotel La Pineta",
+            "lat": 42.110895,
+            "lng": 15.490344,
+            "web": "http://www.albergolapineta.info/",
+            "tel": "0882463202",
+            "email": "info@Albergolapineta.info",
+            "type": "Albergo",
+            "descrizione": "La Pineta è un piccolo albergo a gestione familiare immerso nella tranquilla pineta dell'Isola di San Domino.\nAlloggio confortevole per trascorrere vacanze in un'atmosfera rilassante e gustare l'autentica cucina isolana. Fin dall'arrivo vi immergerete nella natura dei pini d'aleppo che arrivano fin sugli scogli di un mare azzurro e trasparente e ascolterete il frinire delle cicale di giorno ed il canto delle diomedee alla sera. Il mare dista solo cinque minuti a piedi e seguendo il sentiero della pineta raggiungerete le incatevoli \"Cala del sale\", \"Cala delle Roselle\", \"Cala Matano\"."
+        },
+        {
+        	"id": 38,
+            "name": "Hotel Ristorante La Tramontana",
+            "lat": 42.115113,
+            "lng": 15.490449,
+            "web": "http://www.tramontanatremiti.com/",
+            "tel": "0882463455",
+            "email": "info@tramontanatremiti.com",
+            "type": ["Albergo", "Ristorante"],
+            "descrizione": "L'hotel prende il nome dalla suggestiva cala Tramontana, distante circa 200m. Camere con ingresso autonomo, terrazzino e tutti i comfort."
+        },
+        {
+        	"id": 39,
+            "name": "Hotel La Vela",
+            "lat": 42.117023,
+            "lng": 15.492343,
+            "web": "http://www.hotel-lavela.it/",
+            "tel": "0882463254",
+            "email": "info@hotel-lavela.it",
+            "type": "Albergo",
+            "descrizione": "All'hotel La Vela trascorrerete una vancanza rilassante immersi nella natura selvaggia delle isole Tremiti. Il verde della pineta e l'azzurro del mare sapranno regalarvi una permanenza in totale relax. La gestione diretta dei proprietari garantisce un piacevole soggiorno alle Tremiti in un'atmosfera semplice e cordiale."
+        },
+        {
+        	"id": 40,
+            "name": "Hotel Le Viole",
+            "lat": 42.111993,
+            "lng": 15.486664,
+            "web": "http://www.leviole.com/",
+            "tel": "0882463312",
+            "email": "info@leviole.com",
+            "type": "Albergo",
+            "descrizione": "L'Hotel Le Viole è situato nel centro di San Domino, a due passi dalla piazzetta centrale. Spicca nella lussureggiante pineta di San Domino vicino alle cale principali ed in prossimità degli accessi al mare. Il piccolo hotel è composto da 9 camere, tutte con servizi, frigo-bar, telefono, aria condizionata e cassaforte. Gli spazi comuni dell'hotel danno ai visitatori eleganti e raffinati angoli per l'american bar e la saletta TV."
+        },
+        {
+        	"id": 41,
+            "name": "Affittacamere - Lo Russo",
+            "lat": 42.114403,
+            "lng": 15.490476,
+            "tel": "0882463422",
+            "email": "rosetta.lorusso@hotmail.it",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": "Appartamenti in affitto nel centro dell'isola di San Domino."
+        },
+        {
+        	"id": 42,
+            "name": "Da Angela - Appartamenti",
+            "lat": "42.114755",
+            "lng": "15.489362",
+            "tel": "360512970",
+            "email": "info@isoletremitiappartamenti.it",
+            "web": "http://www.isoletremitiappartamenti.it",
+            "type": "Albergo",
+            "descrizione": "Siamo una famiglia tremitese che da sempre opera nel turismo, impegnandosi ad offrire servizi di tutti i tipi e per tutte le tasche con il calore e il dialogo che solo una gestione completamente familiare può offrire.\n\nIl vantaggio economico e la libertà di poter gestire a piacimento i propri orari, usufruendo al contempo una costellazione di opportunità finora esclusivo privilegio di hotel ed alberghi."
+        },
+        {
+        	"id": 43,
+            "name": "Hotel Mare Blu",
+            "lat": 42.111836,
+            "lng": 15.48682,
+            "tel": "0882463310",
+            "email": "nd",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": "Immerso nel verde della pineta di San Domino, in zona rondinelle, un posto fresco per la tua vacanza."
+        },
+        {
+        	"id": 44,
+            "name": "Hotel Ristorante Oasi",
+            "lat": 42.111066,
+            "lng": 15.489878,
+            "web": "http://www.hotelristoranteoasi.it/",
+            "tel": "3314449102",
+            "email": "info@hotelristoranteoasi.it",
+            "type": ["Albergo", "Ristorante"],
+            "descrizione": "L' albergo si trova vacanza isole tremiti nell' Isola di San Domino alle Isole Tremiti, un angolo di paradiso immerso nella vegetazione rigogliosa e incontaminata, a due passi dalla limpidezza del mare e i dei suoi fondali variopinti e puliti. Vera Oasi di pace e tranquillità.\nLa nostra concezione di ospitalità altro non è che: la libertà di una vacanza a contatto con la natura incontaminata, esplorare l’isola, seguendo sentieri che conducono a piccole baie, dove i riflessi del sole rendono il mare cristallino ed invitante, la sicurezza di un rifugio confortevole e dell’ottimo pesce cucinato dalle mani esperte del vostro ospite, lo chef Maurizio."
+        },
+        {
+        	"id": 45,
+            "name": "B&B Villa Paradiso",
+            "lat": 42.115487,
+            "lng": 15.490766,
+            "tel": "0882463400",
+            "email": "villaparadisotremiti@libero.it",
+            "web": "http://www.villaparadisotremiti.com/",
+            "type": "Albergo",
+            "descrizione": "Villa Paradiso Bed and Breakfast è situata al centro dell’isola di San Domino, in zona cala Matano da cui dista 500 metri e dove è possibile trovare una piccola spiaggia attrezzata oltre al fascino di una splendida scogliera argillosa. Inoltre la comoda posizione centrale permette di raggiungere a piedi e in pochi minuti tutte le cale situate sul versante ovest (cala Tramontana, cala Tonda, cala degli Inglesi, cala dei Benedettini) e, attraversando la meravigliosa pineta, con una passeggiata salutare, anche le restanti cale del versante est (cala Spido, cala Matano, cala del Pigno, cala del Sale, cala delle Roselle, cala delle Rondinelle, cala dello zio Cesare). A pochi metri da Villa Paradiso vi è la piazzetta centrale con i suoi bar all’aperto e una serie di ristoranti in cui assaporare prodotti tipici dell’isola. La semplicità della gestione famigliare unita a gentilezza e ospitalità e la posizione strategica rendono Villa Paradiso Bed and Breakfast il luogo ideale dove trascorrere una vacanza in piena tranquillità e comodità."
+        },
+        {
+        	"id": 46,
+            "name": "Hotel Ristorante Le Rondinelle",
+            "lat": 42.111995,
+            "lng": 15.486281,
+            "tel": "0882463314",
+            "email": "rondinelletremiti@yahoo.it",
+            "web": "nd",
+            "type": ["Albergo", "Ristorante"],
+            "descrizione": "Per chi vuole gustare la buona cucina marinara, pescato giornaliero. Nel cuore della pineta di S. Domino posto ideale per chi vuole deliziare i sensi ed il palato."
+        },
+        {
+        	"id": 47,
+            "name": "B&B Ristorante Bar Rossana",
+            "lat": 42.120302,
+            "lng": 15.49525,
+            "web": "http://www.isoletremitialbergorossana.it/",
+            "tel": "0882463298",
+            "email": "info@isoletremitiAlbergorossana.it",
+            "type": ["Albergo", "Ristorante", "Bar"],
+            "descrizione": "L' Albergo Rossana è una piccola struttura alberghiera situata nell' Isola di San Domino (detta l'isola dei panorami, delle atmosfere fatte dal bello di una natura che ha sapientemente accostato tutti i suoi elementi senza forzature).\nL'Albergo Rossana nasce nel 1964 per opera di Benito e Pasqualina, una giovane coppia delle Isole Tremiti, ed è rimasta nel tempo una struttura a conduzione familiare con tutti i vantaggi che ne derivano come ospitalità, cura nel gestire le esigenze del cliente accompagnata dall' allegria e cordialità tipica delle Isole Tremiti. In origine nasce come affittacamere, nel 1972 viene ingrandita e poi ristrutturata più volte; trasformata ancora nell’arco degli anni come tipologia di piccolo Hotel, gli ultimi lavori risalgono al 2011 per opera del figlio Francesco.\nE' immerso nella natura e situato a soli 50 metri dalla banchina di attracco nelle navi e delle barche da diporto e da Cala delle Arene, unica spiaggia sabbiosa dell’ isola, lontano dal fragore notturno del centro paese (discoteche e locali), gode quindi dei suoni del mare e della natura.\nSIAMO APERTI TUTTO L'ANNO!"
+        },
+        {
+        	"id": 48,
+            "name": "Hotel Ristorante San Domino",
+            "lat": 42.116329,
+            "lng": 15.489588,
+            "web": "http://www.hotelsandomino.com/",
+            "tel": "0882463430",
+            "email": "info@hotelsandomino.com",
+            "type": ["Albergo", "Ristorante"],
+            "descrizione": "A conduzione familiare è aperto tutto l’anno: si trova all’inizio del paese, al centro dell’isola di San Domino. E’ immerso nel verde della quiete dello splendido giardino, in un ambiente elegante ed accogliente. Da qui è possibile raggiungere agevolmente a piedi ed in pochissimo tempo le suggestive cale dell’isola dalle quali godere sempre di nuovi scorci per indimenticabili bagni di sole e di mare. Inoltre l’hotel si contraddistingue per un ottimo ristorante che offre meù tipici della tradizione delle isole tremiti, a base di pesce fresco e prodotti genuini"
+        },
+        {
+        	"id": 49,
+            "name": "Villaggio Touring Club",
+            "lat": 42.116724,
+            "lng": 15.486211,
+            "web": "http://www.villaggi.touringclub.it/isole-tremiti/",
+            "tel": "0882463402",
+            "email": "nd",
+            "type": "Albergo",
+            "descrizione": "Tutto il relax, in tutte le forme possibili. In pochissime parole, ecco descritta la vacanza offerta dalle Isole Tremiti. Oasi in cui bellezza, quiete, serenità si uniscono alla possibilità per chi lo desidera di praticare svariati sport o inseguire la propria idea di avventura. Tra mare, cielo e natura incontaminata."
+        },
+        {
+        	"id": 50,
+            "name": "Hotel Villa Elefante",
+            "lat": 42.109963,
+            "lng": 15.490153,
+            "web": "http://www.isoletremiti.org/",
+            "tel": "0882463435",
+            "email": "luba51@tin.it",
+            "type": "Albergo",
+            "descrizione": "In prossimità dello scoglio dell'elefante, a 30m dal mare, posizione suggestiva. Immerso nel verde della pineta. Appartamenti vista mare in completo relax."
+        },
+        {
+        	"id": 51,
+            "name": "Affittacamere - Da Tullia",
+            "lat": 42.114323,
+            "lng": 15.490505,
+            "tel": "3477893607",
+            "email": "nd",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": "Nel cuore dell'isola di San Domino, camere semplici e confortevoli, vicino la splendida cala Matano."
+        },
+        {
+        	"id": 52,
+            "name": "Hotel Kirie",
+            "lat": 42.11913,
+            "lng": 15.492217,
+            "web": "http://www.dominavacanze.it/it/destinazioni/isoleTremiti.aspx",
+            "tel": "0882463415",
+            "email": "kyrie@domina.it",
+            "type": "Albergo",
+            "descrizione": "Sull’isola di San Domino, la più verde e suggestiva delle cinque isole che formano l’arcipelago delle Isole Tremiti,  con le sue bianche scogliere che digradano nel profondo blu del Mediterraneo e ricoperte dalla lussureggiante flora tipica della regione, sorge, immerso in un profumato bosco di pini d’Aleppo, il Domina Home Kyrie, una struttura esclusiva affacciata sul mare in una posizione senza pari. Percorrendo comodi sentieri nella pineta, dall’hotel si può raggiungere la scogliera dove un’incantevole spiaggia scogliosa è stato attrezzato un piccolo angolo a due passi dal mare, veri e propri terrazzini di legno appoggiati sulle rocce, da dove è possibile prendere comodamente il sole usufruendo del servizio di lettini e ombrelloni messo a disposizione dall’hotel. Con l’aiuto del personale dell’albergo è possibile inoltre organizzare escursioni in barca nelle isole dell’arcipelago delle Isole Tremiti per visitare la Grotta delle Viole, del Bue Marino e delle Rondinelle e ammirare le acque che circondano i Pagliai."
+        },
+        {
+        	"id": 53,
+            "name": "Hotel Waikiki",
+            "lat": 42.114428,
+            "lng": 15.489939,
+            "web": "http://www.vieste.it/isoletremiti/waikiki_hotel/",
+            "tel": "0882463305",
+            "email": "hotelwaikiki@yahoo.it",
+            "type": "Albergo",
+            "descrizione": "L'hotel Waikiki è ubicato nell'isola di S. Domino. E' immerso nella pineta, a 800 m. dal mare e dall'imbarco per S. Nicola, punto di attracco per navi e aliscafi. Il complesso è al centro del caratteristico villaggio di S. Domino, a pochi metri da cala Matana ed a breve distanza dalle altre cale dell'isola."
+        },
+        {
+        	"id": 54,
+            "name": "Villa Skandenberg",
+            "lat": 42.112144,
+            "lng": 15.486085,
+            "web": "http://www.villaskanderbeg.it/",
+            "tel": "3394071971",
+            "email": "villaskanderbeg1950@libero.it",
+            "type": "Albergo",
+            "descrizione": "Vero B&B, ricettività casalinga, in una splendida cornice, immerso nel verde, tutte le spiaggette raggiungibili a piedi."
+        },
+        {
+        	"id": 55,
+            "name": "Ristorante L'Architiello",
+            "lat": 42.120200,
+            "lng": 15.502100,
+            "tel": "0882463054",
+            "email": "nd",
+            "web": "nd",
+            "type": "Ristorante",
+            "descrizione": "Ristorante con terrazza panoramica sul mare ed un'incantevole vista di tutto l'arcipelago."
+        },
+        {
+        	"id": 56,
+            "name": "Ristorante La Conchiglia",
+            "lat": 42.120696,
+            "lng": 15.503817,
+            "tel": "0882463105",
+            "email": "nd",
+            "web": "nd",
+            "type": "Ristorante",
+            "descrizione": "Ristorante sul molo di S. Nicola. Qui è possibile mangiare pesce a due passi dal mare, godendo una meravigliosa vista sull'arcipelago."
+        },
+        {
+        	"id": 57,
+            "name": "Ristorante Da Pio",
+            "lat": 42.113539,
+            "lng": 15.489658,
+            "tel": "0882463269",
+            "email": "nd",
+            "web": "http://www.ristorantedapio.com/",
+            "type": "Ristorante",
+            "descrizione": "Il ristorante Da Pio nasce nel 2000 sulle fondamenta del vecchio ristorante \"L'aragosta\" di Tullio e Peppina. Molto conosciuto dai frequentatari delle isole, propone ancora oggi piatti tipici tremitesi."
+        },
+        {
+        	"id": 58,
+            "name": "La Livornese",
+            "lat": 42.120063,
+            "lng": 15.496323,
+            "tel": "0882463224",
+            "email": "nd",
+            "web": "nd",
+            "type": ["Ristorante", "Bar"],
+            "descrizione": "Caratteristico locale con terrazzo sul mare, cucina tipica tremitese. Ricettivo per comitive. Specialità da gustare: orecchiette alla pescatora."
+        },
+        {
+        	"id": 59,
+            "name": "Hotel Ristorante La Nassa",
+            "lat": 42.112942,
+            "lng": 15.489207,
+            "tel": "0882463345",
+            "email": "nd",
+            "web": "nd",
+            "type": ["Albergo", "Ristorante"],
+            "descrizione": "Locale dove poter gustare la cucina tipica tremitese. La struttura comprende 4 appartamenti di cui due, all'occorrenza comunicanti tra loro."
+        },
+        {
+        	"id": 60,
+            "name": "Luna Matana",
+            "lat": 42.114576,
+            "lng": 15.490229,
+            "tel": "0882463204",
+            "email": "nd",
+            "web": "nd",
+            "type": ["Ristorante", "Bar"],
+            "descrizione": ""
+        },
+        {
+        	"id": 61,
+            "name": "Relais Al Faro",
+            "lat": 42.112918,
+            "lng": 15.489154,
+            "tel": "0882463424",
+            "email": "alfarotremiti@alice.it",
+            "web": "http://www.alfarotremiti.it/",
+            "type": ["Albergo", "Ristorante"],
+            "descrizione": "Un piccolo Relais, poche camere arredate con semplicità e dallo stile tipicamente mediterraneo, dotate di ogni confort, situato al centro dell'Isola di San Domino in zona tranquilla e silenziosa.\nLa Colazione viene servita all'ombra di una bellissima palma, a circa 50m dalla struttura, in un lounge bar della stessa proprietà.\nIl Relais Al Faro non offre soltanto ospitalità, ma anche cordialità ed accoglienza nel rispetto della privacy dei propri ospiti.\nLe Camere e gli appartamenti sono tutti dotati di aria condizionata, bagno con doccia, phon, televisore e cassetta di sicurezza.\nSpiaggetta di cala Matano: a 200m circa."
+        },
+        {
+        	"id": 62,
+            "name": "A' Smerza",
+            "lat": 42.117479,
+            "lng": 15.493509,
+            "tel": "3335843181",
+            "email": "nd",
+            "web": "nd",
+            "type": "Bar",
+            "descrizione": "Nella nostra oasi di relax potrai trovare: carne arrosto, spaghetti, buon vino, stuzzichini, panini, insalate, gelati, frutta fresca, bibite e tante altre cose."
+        },
+        {
+        	"id": 63,
+            "name": "Diomede",
+            "lat": 42.11452,
+            "lng": 15.49039,
+            "tel": "0882463403",
+            "web": "http://www.discotecadiomede.it/",
+            "email": "nd",
+            "type": "Bar",
+            "descrizione": "Di giorno: dal mattino Bar e Tabaccheria, al break di pranzo con piadine e panini, per arrivare all'aperitivo \"mangia e bevi\": la Discoteca Diomede è questo e tanto altro!\n\nLa discoteca: La Discoteca Diomede è nata nel 1954, ed è dalla Piazzetta di San Domino, dal centro più verde dell'arcipelago delle Tremiti, che diffonde la sua musica da oltre 50 anni.\n\nGli eventi: Il locale organizza feste di compleanno, matrimoni, eventi e manifestazioni di ogni genere. Contattaci per saperne di più o per trovare la soluzione più adatta per il tuo evento."
+        },
+        {
+        	"id": 64,
+            "name": "La Capannina",
+            "lat": 42.120618,
+            "lng": 15.495561,
+            "email": "nd",
+            "web": "nd",
+            "type": "Bar",
+            "tel": "nd",
+            "descrizione": "Posto in cui rilassarsi su comode amache, bere una birra e mangiare un panino gustandosi una fantastica vista di tutto l'arcipelago."
+        },
+        {
+        	"id": 65,
+            "name": "La Yogurtoteka",
+            "lat": 42.113619,
+            "lng": 15.489695,
+            "tel": "0882463256",
+            "email": "nd",
+            "web": "nd",
+            "type": "Bar",
+            "descrizione": "Gelateria dove poter gustare gelato artigianale con vasta scelta di gusti e altro ancora."
+        },
+        {
+        	"id": 66,
+            "name": "Arthur Club",
+            "lat": 42.112516,
+            "lng": 15.476606,
+            "tel": "3290103363",
+            "email": "nd",
+            "web": "http://arthurclub.vpsite.it/",
+            "type": "Bar",
+            "descrizione": "L’obbiettivo di ARTHUR CLUB è fornire un servizio d’alta qualità accompagnato di un livello ottimo di \"soddisfazione clienti\". Faremo tutto il possibile per soddisfare le sue esigenze. Con tanti prodotti tra cui scegliere, siamo sicuri che sarà contento di affidarsi a noi.\nLa invitiamo a visitare il nostro sito. Per qualsiasi domanda, non esitare a mettersi in contatto con noi."
+        },
+        {
+        	"id": 67,
+            "name": "Il Pirata",
+            "lat": 42.120049,
+            "lng": 15.49661,
+            "tel": "0882463253",
+            "email": "nd",
+            "web": "nd",
+            "type": ["Bar", "Ristorante"],
+            "descrizione": "Bar e ristorante a due passi dalla spiaggia. All'interno è presente anche una boutique di souvenir e abbigliamento."
+        },
+        {
+        	"id": 68,
+            "name": "Lido Bagni Polo Nord",
+            "lat": 42.119665,
+            "lng": 15.495937,
+            "tel": "3461082525",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Servizio in spiaggia di noleggio ombrelloni, lettini e canoe, sia a cala delle arene che nella splendida cala Matano."
+        },
+        {
+        	"id": 69,
+            "name": "Lido Cala Tamariello",
+            "lat": 42.124169,
+            "lng": 15.489085,
+            "tel": "3460961324",
+            "email": "info@blutremiti.it",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Per godersi una giornata nella natura. Baia attrezzata con: chiosco ristoro, noleggio pedana, ombrelloni, lettini, canoe e lettini galleggianti."
+        },
+        {
+        	"id": 70,
+            "name": "Lido Cala Benedettini",
+            "lat": 42.117707,
+            "lng": 15.485133,
+            "tel": "3290290085",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": ""
+        },
+        {
+        	"id": 71,
+            "name": "Noleggio gommoni - I Benedettini",
+            "lat": 42.120381,
+            "lng": 15.497034,
+            "tel": "3396920452",
+            "web": "http://www.tremitiingommone.it/",
+            "email": "info@tremitiingommone.it",
+            "type": "Attivita",
+            "descrizione": "Noleggio gommoni, acqua taxi, collegamento S. Domino, S. Nicola, giro dell'isola con visita alle grotte. Gite turistiche all'ascolto delle diomedee. Aperitivo al tramonto."
+        },
+        {
+        	"id": 72,
+            "name": "Noleggio gommoni - Skizzo",
+            "lat": 42.120342,
+            "lng": 15.497085,
+            "tel": "3209321040",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Acqua taxi, servizio tender, visita alle grotte, traghetto notturno, aperitivo a bordo con frutti di mare."
+        },
+        {
+        	"id": 73,
+            "name": "Noleggio gommoni - Da Tullio",
+            "lat": 42.119967,
+            "lng": 15.496581,
+            "tel": "3392334905",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Noleggio gommoni con equipaggiamento, adatto a tutte le esigenze."
+        },
+        {	"id": 74,
+            "name": "Noleggio gommoni - Ernesto",
+            "lat": 42.119585,
+            "lng": 15.501623,
+            "tel": "3337330558",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Noleggio gommoni, servizio acqua-taxi per trascorrere una bella giornata. Prezzi onesti."
+        },
+        {
+        	"id": 75,
+            "name": "Noleggio gommoni - Umberto Boat",
+            "lat": 42.120509,
+            "lng": 15.496634,
+            "tel": "3332331527",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": ""
+        },
+        {
+        	"id": 76,
+            "name": "Noleggio gommoni - Il Salvagente",
+            "lat": 0,
+            "lng": 0,
+            "web": "http://www.noleggioisoletremiti.it/",
+            "tel": "3392388610",
+            "email": "nd",
+            "type": "Attivita",
+            "descrizione": "Noleggio gommoni, servizio di acqua taxi, escursioni private per visitare le isole Tremiti. Gommoni dotati di cuscineria, doccetta, radio e frigobar. Sconto del 20% per prenotazioni telefoniche."
+        },
+        {
+        	"id": 77,
+            "name": "Noleggio gommoni - I Saraceni",
+            "lat": 42.119400,
+            "lng": 15.502533,
+            "web": "nd",
+            "tel": "3397808165",
+            "email": "nd",
+            "type": "Attivita",
+            "descrizione": "Noleggio gommoni, servizio acqua taxi, escursioni private. Per prenotazioni, sconti del 10, 15, 20% 1°, 2° e 3° giorno. Gommoni con pilotina, provvisti di stereo, chiavetta usb, doccia, frigo igloo, tendalino, scaletta per la risalita e cuscineria prendisole. Sconti come sopra in alternativa bottiglia di prosecco a bordo o passaggio gratis a/r notturno tra le isole."
+        },
+        {
+        	"id": 78,
+            "name": "Diving Center Blu Tremiti",
+            "lat": 0,
+            "lng": 0,
+            "tel": "3460961324",
+            "web": "http://www.blutremiti.it",
+            "email": "info@blutremiti.it",
+            "type": "Attivita",
+            "descrizione": "Una giornata diversa, un'immersione da ricordare. A bordo della motonave Blu Alba.\n\nFull-day sub: giornata intera in barca con due immersioni guidate, stuzzichino nell'intervallo tra un'uscita e l'altra, pranzo a base di pesce bevande incluse e relax inzona solarium.\n\nFull-day snorkeling\n\nImmersioni singole\n\nBattesimo del mare\n\nCorsi sub\n\nPacchetti completi per sub e turisti.\n\nElaboriamo pacchetti speciali per gruppi numerosi di subaquei, associazioni e scuole mettendo a disposizione un'altra delle nostre imbarcazioni: la motonave Victor."
+        },
+        {
+        	"id": 79,
+            "name": "Diving Center Tremiti",
+            "lat": 42.120234,
+            "lng": 15.495835,
+            "tel": "337648917",
+            "web": "http://www.tremitidivingcenter.com/",
+            "email": "nd",
+            "type": "Attivita",
+            "descrizione": "Immersioni guidate, corsi sub, full day, noleggio attrezzature, ricarica miscele."
+        },
+        {
+        	"id": 80,
+            "name": "Diving Center Aquolina",
+            "lat": 42.120234,
+            "lng": 15.495835,
+            "tel": "3472622724",
+            "web": "http://www.aquodiving.it/",
+            "email": "nd",
+            "type": "Attivita",
+            "descrizione": "Snorkeling, immersioni guidate e corsi dall'open water all'istruttore. Rilascio brevetto internazionale SSI."
+        },
+        {
+        	"id": 81,
+            "name": "Diving Center Marlin",
+            "lat": 42.116159,
+            "lng": 15.491621,
+            "tel": "0882463765",
+            "web": "http://www.marlintremiti.it/",
+            "email": "info@marlintremiti.it",
+            "type": "Attivita",
+            "descrizione": "Il MarlinTremiti nasce nel 2002 (viene rilevato un diving che era presente sin dagli anni ’90) e trasformato totalmente.\nDa sempre si è cercato di vedere la subacquea non solo come attività sportiva ma anche come opportunità per studiare, per conoscere il mondo mare in tutte le sue sfaccettature.\nVoglia di esplorare la subacquea (come attività Sportiva);\nPensare innovativo;\nSeguire l’evoluzione, la ricerca e la sicurezza;\nDarsi e aggredire sempre nuovi obiettivi;\nEssere curiosi e non smettere mai di imparare;\nAvere voglia di vincere;\nVedere nel cambiamento un'opportunità;\nSono i valori a cui abbiamo da sempre creduto e che abbiamo voluto portare nella subacquea."
+        },
+        {
+        	"id": 82,
+            "name": "L'Approdo",
+            "lat": 42.11992,
+            "lng": 15.496899,
+            "tel": "",
+            "email": "nd",
+            "web": "nd",
+            "type": "Bar",
+            "descrizione": "Piacevole locale con veranda con vista su tutto l'arcipelago. bruschette sfiziose e... la famosa caipirinha di Michelle"
+        },
+        {
+        	"id": 83,
+            "name": "Affittacamere - Da Teresa",
+            "lat": 0,
+            "lng": 0,
+            "tel": "3356485899",
+            "email": "nd",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": "Appartamento di recente ristrutturazione con 6 posti letto, 2 bagni, 2 camere, cucina, posto pavimentato all'aperto. Inoltre un monolocale con 2/3 posti letto e angolo cottura. Vicino al centro del paese."
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        ,
+        {
+        	"id": 84,
+            "name": "La Torretta",
+            "lat": 42.119556,
+            "lng": 15.503167,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Bar",
+            "descrizione": ""
+        },
+        {
+        	"id": 85,
+            "name": "B&B Il Chiostro",
+            "lat": 42.121889,
+            "lng": 15.508167,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": ""
+        },
+        {
+        	"id": 86,
+            "name": "Museo della radio d'epoca",
+            "lat": 42.127117,
+            "lng": 15.504617,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": ""
+        },
+        {
+        	"id": 87,
+            "name": "Caffè della Marina",
+            "lat": 42.119767,
+            "lng": 15.502200,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Bar",
+            "descrizione": ""
+        },
+        {
+        	"id": 88,
+            "name": "Escursioni in gozzo",
+            "lat": 42.119400,
+            "lng": 15.502533,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": ""
+        },
+        {
+        	"id": 89,
+            "name": "Noleggio gommoni - Paolo Pezzella",
+            "lat": 42.120517,
+            "lng": 15.496817,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": ""
+        },
+        {
+        	"id": 90,
+            "name": "Gite in barca - Valerio",
+            "lat": 42.120517,
+            "lng": 15.496817,
+            "tel": 3293091324,
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": "Scopri le Isole Tremiti in GITA IN BARCA con Valerio. Servizi personalizzati alle vostre esigenze. A bordo della \"Cinzia\" sarete guidati in tutto relax a scoprire gli angoli più belli dell'arcipelago da chi li conosce."
+        },
+        {
+        	"id": 91,
+            "name": "Affittacamere - Da Antonietta",
+            "lat": 0,
+            "lng": 0,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": ""
+        },
+        {
+        	"id": 92,
+            "name": "Il nido ??????????????????????????????????????????",
+            "lat": 0,
+            "lng": 0,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": ""
+        }
+        ,
+        {
+        	"id": 93,
+            "name": "Il Delfino ????????????????????",
+            "lat": 0,
+            "lng": 0,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": ""
+        },
+        {
+        	"id": 94,
+            "name": "B&B La Casa Di Gino",
+            "lat": 42.119800,
+            "lng": 15.503733,
+            "tel": "0882463410",
+            "email": "bb@hotel-gabbiano.com",
+            "web": "http://www.hotel-gabbiano.com",
+            "type": "Albergo",
+            "descrizione": ""
+        },
+        {
+        	"id": 95,
+            "name": "Villa Olimpia",
+            "lat": 0,
+            "lng": 0,
+            "tel": "0882463410",
+            "email": "nd",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": ""
+        },
+        {
+        	"id": 96,
+            "name": "La Cambusa",
+            "lat": 42.119933,
+            "lng": 15.503167,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Bar",
+            "descrizione": ""
+        },
+        {
+        	"id": 97,
+            "name": "Il Torrione",
+            "lat": 42.120633,
+            "lng": 15.504367,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Bar",
+            "descrizione": ""
+        },
+        {
+        	"id": 98,
+            "name": "Oggetti religiosi",
+            "lat": 42.121250,
+            "lng": 15.504650,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": ""
+        },
+        {
+        	"id": 99,
+            "name": "Noleggio gommoni - Angelica",
+            "lat": 42.119400,
+            "lng": 15.502533,
+            "tel": 3489171971,
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": ""
+        },
+        {
+        	"id": 100,
+            "name": "Noleggio gommoni - Gommoni & gommoni",
+            "lat": 42.119400,
+            "lng": 15.502533,
+            "tel": 3403940651,
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": ""
+        },
+        {
+        	"id": 101,
+            "name": "Noleggio gommoni - Omar",
+            "lat": 42.120517,
+            "lng": 15.496817,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": ""
+        },
+        {
+        	"id": 102,
+            "name": "Bar del Marinaio",
+            "lat": 42.119467,
+            "lng": 15.502583,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Bar",
+            "descrizione": ""
+        },
+        {
+        	"id": 103,
+            "name": "Fatte cchiu' 'a ",
+            "lat": 42.120483,
+            "lng": 15.496717,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Bar",
+            "descrizione": ""
+        },
+        {
+        	"id": 104,
+            "name": "Bar Nazionale",
+            "lat": 42.120267,
+            "lng": 15.503417,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Bar",
+            "descrizione": ""
+        },
+        {
+        	"id": 105,
+            "name": "Bar Rosa Dei Venti",
+            "lat": 42.119967,
+            "lng": 15.502917,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Bar",
+            "descrizione": ""
+        },
+        {
+        	"id": 106,
+            "name": "Shopping by Milena",
+            "lat": 42.121250,
+            "lng": 15.504650,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": ""
+        },
+        {
+        	"id": 107,
+            "name": "B&B Le Case Dei Nonni",
+            "lat": 42.120083,
+            "lng": 15.502850,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Albergo",
+            "descrizione": ""
+        },
+        {
+        	"id": 108,
+            "name": "Azzurra ceramiche",
+            "lat": 42.120100,
+            "lng": 15.503067,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": ""
+        },
+        {
+        	"id": 109,
+            "name": "La Conchiglia",
+            "lat": 42.119817,
+            "lng": 15.502000,
+            "tel": "nd",
+            "email": "nd",
+            "web": "nd",
+            "type": "Attivita",
+            "descrizione": ""
+        }
+        
+        
+        
+        
+        
+    ]
+}
